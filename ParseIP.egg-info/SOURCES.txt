@@ -1,0 +1,7 @@
+ParseIP.py
+README.txt
+setup.py
+ParseIP.egg-info/PKG-INFO
+ParseIP.egg-info/SOURCES.txt
+ParseIP.egg-info/dependency_links.txt
+ParseIP.egg-info/top_level.txt
